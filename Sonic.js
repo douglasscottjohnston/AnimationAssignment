@@ -1,3 +1,10 @@
 class Sonic {
     
+    update() {
+
+    }
+
+    draw() {
+        
+    }
 }
